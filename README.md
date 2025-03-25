@@ -1,6 +1,8 @@
 # **GLOBAL POPULATION PREDICTION BASED ON INCOME GROUP**  
 *Demographic Analysis Using Random Forest Regression*  
 
+![](Population_cover.jpeg)
+
 ## **INTRODUCTION**  
 Population growth patterns vary significantly based on a country’s **income classification** (Low, Middle, or High-income). This project applies **Random Forest Regression** to analyze **global population trends** and predict future growth based on income categories.  
 
